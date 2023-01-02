@@ -1,2 +1,2 @@
 # SQL-fundaments
-SQL fundaments for data analysis
+데이터 분석을 위한 SQL 기본 쿼리
